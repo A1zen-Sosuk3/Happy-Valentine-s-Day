@@ -1,2 +1,2 @@
 # Happy-Valentines-Day
-Valentine for my artwork, nevermind(take it from codepen)
+Valentine for my artwork, nevermind(took it from codepen)
